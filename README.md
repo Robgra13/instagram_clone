@@ -1,5 +1,13 @@
 # Instagram clone App
 
+![Zrzut ekranu 2024-05-14 o 21 28 47](https://github.com/Robgra13/instagram_clone/assets/64651524/8924042f-8b83-47bb-9a85-a4f8eed17689)
+![Zrzut ekranu 2024-05-14 o 21 29 54](https://github.com/Robgra13/instagram_clone/assets/64651524/54174c9a-840f-44dd-816c-6e9ad9f4428f)
+![Zrzut ekranu 2024-05-14 o 21 26 42](https://github.com/Robgra13/instagram_clone/assets/64651524/10654a64-2b3b-4a53-9d2a-327718b3ee71)
+
+
+
+
+
 1. User Accounts and Authentication
 * Designing login page to be as much similar to the original
 * Adding Users and Authentication using Devise gem
