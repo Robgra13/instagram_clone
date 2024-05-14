@@ -1,10 +1,8 @@
 # Instagram clone App
 
-![Zrzut ekranu 2024-05-14 o 21 28 47](https://github.com/Robgra13/instagram_clone/assets/64651524/8924042f-8b83-47bb-9a85-a4f8eed17689)
-![Zrzut ekranu 2024-05-14 o 21 29 54](https://github.com/Robgra13/instagram_clone/assets/64651524/54174c9a-840f-44dd-816c-6e9ad9f4428f)
-![Zrzut ekranu 2024-05-14 o 21 26 42](https://github.com/Robgra13/instagram_clone/assets/64651524/10654a64-2b3b-4a53-9d2a-327718b3ee71)
 
-
+![Zrzut ekranu 2024-05-14 o 21 48 57](https://github.com/Robgra13/instagram_clone/assets/64651524/0b4f62fa-e014-4088-b4b1-fe1a382a004a)
+![Zrzut ekranu 2024-05-14 o 21 49 09](https://github.com/Robgra13/instagram_clone/assets/64651524/99d37e6b-17c3-4198-9d40-3c711c6f18d1)
 
 
 
@@ -57,5 +55,5 @@
 
 11. Searching Users system
 * Designing search bar so it can show results in real time (not after clicking enter).
-* Works for only part of the Username
+* Works even for a part of the Username
 
